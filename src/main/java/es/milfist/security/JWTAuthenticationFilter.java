@@ -1,7 +1,7 @@
 package es.milfist.security;
 
-import es.milfist.usuario.User;
-import es.milfist.usuario.UserCreator;
+import es.milfist.user.User;
+import es.milfist.user.UserCreator;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import org.springframework.security.authentication.AuthenticationManager;

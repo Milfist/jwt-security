@@ -1,4 +1,4 @@
-package es.milfist.usuario;
+package es.milfist.user;
 
 import static es.milfist.security.Constants.ROLE_SEPARATOR;
 //TODO: Refactor

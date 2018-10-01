@@ -1,4 +1,4 @@
-package es.milfist.usuario;
+package es.milfist.user;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
